@@ -1,0 +1,8 @@
+C:\Thai\Personal\Projects\ThaiSpace\ThaiSpaceApi\SpaceServices\bin\Debug\netstandard2.1\SpaceServices.deps.json
+C:\Thai\Personal\Projects\ThaiSpace\ThaiSpaceApi\SpaceServices\bin\Debug\netstandard2.1\SpaceServices.dll
+C:\Thai\Personal\Projects\ThaiSpace\ThaiSpaceApi\SpaceServices\obj\Debug\netstandard2.1\SpaceServices.csprojAssemblyReference.cache
+C:\Thai\Personal\Projects\ThaiSpace\ThaiSpaceApi\SpaceServices\obj\Debug\netstandard2.1\SpaceServices.AssemblyInfoInputs.cache
+C:\Thai\Personal\Projects\ThaiSpace\ThaiSpaceApi\SpaceServices\obj\Debug\netstandard2.1\SpaceServices.AssemblyInfo.cs
+C:\Thai\Personal\Projects\ThaiSpace\ThaiSpaceApi\SpaceServices\bin\Debug\netstandard2.1\SpaceServices.pdb
+C:\Thai\Personal\Projects\ThaiSpace\ThaiSpaceApi\SpaceServices\obj\Debug\netstandard2.1\SpaceServices.dll
+C:\Thai\Personal\Projects\ThaiSpace\ThaiSpaceApi\SpaceServices\obj\Debug\netstandard2.1\SpaceServices.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiSpaceApi", "ThaiSpaceApi\ThaiSpaceApi.csproj", "{251ECB4C-0E81-4CE1-BD81-4EF0C1870D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceServices", "SpaceServices\SpaceServices.csproj", "{6FB809B3-5311-49F9-8E08-16149628DD99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251ECB4C-0E81-4CE1-BD81-4EF0C1870D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251ECB4C-0E81-4CE1-BD81-4EF0C1870D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251ECB4C-0E81-4CE1-BD81-4EF0C1870D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251ECB4C-0E81-4CE1-BD81-4EF0C1870D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB809B3-5311-49F9-8E08-16149628DD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB809B3-5311-49F9-8E08-16149628DD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB809B3-5311-49F9-8E08-16149628DD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB809B3-5311-49F9-8E08-16149628DD99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1006A14A-D752-4439-BFDE-82FE6022A162}
+	EndGlobalSection
+EndGlobal
